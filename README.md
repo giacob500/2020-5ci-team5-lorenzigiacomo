@@ -1,4 +1,4 @@
-# GROUP5_5CI_software_project_documentation
+# 2020-5ci-team5-lorenzigiacomo
  Lorenzi Giacomo - Olivieri Matteo - Maccacaro Emanuele - Luigi Ianni - Ramascanu Robert
 ---
 Progetto:
