@@ -1,6 +1,6 @@
 # 2020-5ci-team5-lorenzigiacomo
  Lorenzi Giacomo - Olivieri Matteo - Maccacaro Emanuele - Luigi Ianni - Ramascanu Robert
 ---
-Progetto:
+Project:
 
-Creazione di un corso per l'apprendimento della lingua inglese, basato sul test FCE
+Creation of a course for learning the English language, based on the FCE test
