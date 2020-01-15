@@ -1,9 +1,10 @@
-# Project Charter
-|                         |                                                                                                                                            |
-| :---------------------- |--------------------------------------------------------------------------------------------------------------------------------------------|
+## PROJECT CHARTER
+
+| ------------------------------------------------------------ |
 | **Project Title:** SAAS: the new frontier of learning |
 | --- |
-| **Start Date:** 30/3/2019 | **End Date:** 25/05/2019 |
+| **Start Date:** 30/03/2019 | 
+| **End Date:** 25/05/2019 |
 | **Project Manager:** Gianni Bellini |
 | **Project Sponsor:** ITI. MARCONI |
 | **Customer:** ITI. MARCONI |
