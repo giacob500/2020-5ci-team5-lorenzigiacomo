@@ -3,4 +3,4 @@
 ---
 Project:
 
-Creation of a course for learning the English language, based on the FCE test
+Creation of a course on Moodle online platform for learning the English language, based on the FCE test.
