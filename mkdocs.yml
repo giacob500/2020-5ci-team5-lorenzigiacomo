@@ -4,6 +4,14 @@ nav:
     - 'Software Requirements Specification': 'Software Requirements Specification.md'
     - 'Software Project Management plan': 'Software Project Management Plan.md'
     - 'Business Model Canvas pdf': 'business_model_canvas.pdf'
+    - 'Release Plan': 'Release Plan.md'
+    - 'Iteration Plan': 'Iteration Plan.md'
+    - 'Project Success Criteria': 'Project Success Criteria.md'
+    - 'Architecture and Design': 'Architecture and Design.md'
+    - 'Test Plan': 'TestPlan.md'
+    - 'Test Case Specification': 'Test Case Specification.md'
+    - 'User Guide': 'User guide.md'
+    - 'System Documentation': 'System Documentation.md'
   
     
 theme:
